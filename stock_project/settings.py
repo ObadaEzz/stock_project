@@ -122,3 +122,6 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+STATIC_ROOT = '/home/ObadaEz/stock_project/static'
+MEDIA_ROOT = '/home/ObadaEz/stock_project/media'
+
